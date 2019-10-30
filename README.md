@@ -5,32 +5,32 @@ The images are pixel art of various Halloween creatures, plus some graveyard ima
 
 Here are each of the creatures, on various backgrounds:
 
-Vampire Bat, Night Sky background (vampire-0)
 ![vampire-0](https://raw.githubusercontent.com/catspook/graveyard-pics/master/vampire-0.png)
+Vampire Bat, Night Sky background (vampire-0)
 
-Poltergeist, Darkest Grass background (poltergeist-1)
-![poltergeist-1](https://raw.githubusercontent.com/catspook/graveyard-pics/master/poltergeist-1.png)
+![zombie-1](https://raw.githubusercontent.com/catspook/graveyard-pics/master/zombie-1.png)
+Zombie, Middle Grass background (zombie-1)
 
-Zombie, Middle Grass background (zombie-2)
-![zombie-2](https://raw.githubusercontent.com/catspook/graveyard-pics/master/zombie-2.png)
+![poltergeist-2](https://raw.githubusercontent.com/catspook/graveyard-pics/master/poltergeist-2.png)
+Angry Ghost/Poltergeist, Darkest Grass background (poltergeist-2)
 
-Skeleton, Lightest Grass background (skeleton-3)
 ![skeleton-3](https://raw.githubusercontent.com/catspook/graveyard-pics/master/skeleton-3.png)
+Skeleton, Lightest Grass background (skeleton-3)
 
-Lich, Night Sky background (lich-0)
 ![lich-0](https://raw.githubusercontent.com/catspook/graveyard-pics/master/lich-0.png)
+Lich, Night Sky background (lich-0)
 
-Ghoul, Darkest Grass background (ghoul-1)
 ![ghoul-1](https://raw.githubusercontent.com/catspook/graveyard-pics/master/ghoul-1.png)
+Ghoul, Darkest Grass background (ghoul-1)
 
-Wraith, Middle Grass background (wraith-2)
 ![wraith-2](https://raw.githubusercontent.com/catspook/graveyard-pics/master/wraith-2.png)
+Wraith, Middle Grass background (wraith-2)
 
-Tombstone, Lightest Grass background (tombstone-3)
 ![tombstone-3](https://raw.githubusercontent.com/catspook/graveyard-pics/master/tombstone-3.png)
+Tombstone, Lightest Grass background (tombstone-3)
 
-Empty (dug-up) Plot, Night Sky background (empty-0)
 ![empty-0](https://raw.githubusercontent.com/catspook/graveyard-pics/master/empty-0.png)
+Empty (dug-up) Plot, Night Sky background (empty-0)
 ________
 This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. 
 To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/4.0/.
