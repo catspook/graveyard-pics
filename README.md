@@ -7,20 +7,28 @@ Here are each of the creatures, on various backgrounds:
 
 Vampire Bat, Night Sky background (vampire-0)
 ![vampire-0](https://raw.githubusercontent.com/catspook/graveyard-pics/master/vampire-0.png)
+
 Poltergeist, Darkest Grass background (poltergeist-1)
 ![poltergeist-1](https://raw.githubusercontent.com/catspook/graveyard-pics/master/poltergeist-1.png)
+
 Zombie, Middle Grass background (zombie-2)
 ![zombie-2](https://raw.githubusercontent.com/catspook/graveyard-pics/master/zombie-2.png)
+
 Skeleton, Lightest Grass background (skeleton-3)
 ![skeleton-3](https://raw.githubusercontent.com/catspook/graveyard-pics/master/skeleton-3.png)
+
 Lich, Night Sky background (lich-0)
 ![lich-0](https://raw.githubusercontent.com/catspook/graveyard-pics/master/lich-0.png)
+
 Ghoul, Darkest Grass background (ghoul-1)
 ![ghoul-1](https://raw.githubusercontent.com/catspook/graveyard-pics/master/ghoul-1.png)
+
 Wraith, Middle Grass background (wraith-2)
 ![wraith-2](https://raw.githubusercontent.com/catspook/graveyard-pics/master/wraith-2.png)
+
 Tombstone, Lightest Grass background (tombstone-3)
 ![tombstone-3](https://raw.githubusercontent.com/catspook/graveyard-pics/master/tombstone-3.png)
+
 Empty (dug-up) Plot, Night Sky background (empty-0)
 ![empty-0](https://raw.githubusercontent.com/catspook/graveyard-pics/master/empty-0.png)
 ________
