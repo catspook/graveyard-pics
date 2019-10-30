@@ -5,24 +5,17 @@ The images are pixel art of various Halloween creatures, plus some graveyard ima
 
 Here are each of the creatures, on various backgrounds:
 
-![vampire-0](https://raw.githubusercontent.com/catspook/graveyard-pics/master/vampire-0.png)![zombie-1](https://raw.githubusercontent.com/catspook/graveyard-pics/master/zombie-1.png)
+![vampire-0](https://raw.githubusercontent.com/catspook/graveyard-pics/master/vampire-0.png)![zombie-0](https://raw.githubusercontent.com/catspook/graveyard-pics/master/zombie-0.png)![poltergeist-0](https://raw.githubusercontent.com/catspook/graveyard-pics/master/poltergeist-0.png)
 
-Vampire Bat, Night Sky background (vampire-0) | Zombie Middle Grass background (zombie-1)
+Vampire Bat (vampire-0) | Zombie (zombie-0) | Poltergeist (poltergeist-0)
 
-![poltergeist-2](https://raw.githubusercontent.com/catspook/graveyard-pics/master/poltergeist-2.png)![skeleton-3](https://raw.githubusercontent.com/catspook/graveyard-pics/master/skeleton-3.png)
+![Skeleton-1](https://raw.githubusercontent.com/catspook/graveyard-pics/master/skeleton-1.png)![lich-1](https://raw.githubusercontent.com/catspook/graveyard-pics/master/lich-1.png)![ghoul-1](https://raw.githubusercontent.com/catspook/graveyard-pics/master/ghoul-1.png)
 
-Angry Ghost/Poltergeist, Darkest Grass background (poltergeist-2) | Skeleton, Lightest Grass background (skeleton-3)
+Skeleton (skeleton-3) | Lich (lich-0) | Ghoul (ghoul-1)
 
-![lich-0](https://raw.githubusercontent.com/catspook/graveyard-pics/master/lich-0.png)![ghoul-1](https://raw.githubusercontent.com/catspook/graveyard-pics/master/ghoul-1.png)
+![wraith-3](https://raw.githubusercontent.com/catspook/graveyard-pics/master/wraith-3.png)![tombstone-3](https://raw.githubusercontent.com/catspook/graveyard-pics/master/tombstone-3.png)![empty-3](https://raw.githubusercontent.com/catspook/graveyard-pics/master/empty-3.png)
 
-Lich, Night Sky background (lich-0) | Ghoul, Darkest Grass background (ghoul-1)
-
-![wraith-2](https://raw.githubusercontent.com/catspook/graveyard-pics/master/wraith-2.png)![tombstone-3](https://raw.githubusercontent.com/catspook/graveyard-pics/master/tombstone-3.png)
-
-Wraith, Middle Grass background (wraith-2) | Tombstone, Lightest Grass background (tombstone-3)
-
-![empty-0](https://raw.githubusercontent.com/catspook/graveyard-pics/master/empty-0.png)
-Empty (dug-up) Plot, Night Sky background (empty-0)
+Wraith (wraith-3) | Tombstone (tombstone-3) | Empty Plot (empty-3)
 ________
 This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. 
 To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/4.0/.
