@@ -1,7 +1,7 @@
 # graveyard-pics
 Halloween themed game-tile images created by me, for use in banqi and other tile games. CC BY-NC Licencing info below.
 ______
-The images are pixel art of various Halloween creatures, plus some graveyard imagery. Each creature is set on four backgrounds, ranging from a night sky to shaded grass. When pieced together, the effect is of various creatures standing in a graveyard, with tombstones and dug up plots. Check out [my wife's Halloween banqi game](https://github.coom/thea-leake/graveyard) for an example use case.
+The images are pixel art of various Halloween creatures, plus some graveyard imagery. Each creature is set on four backgrounds, ranging from a night sky to shaded grass. When pieced together, the effect is of various creatures standing in a graveyard, with tombstones and dug up plots. Check out [my wife's Halloween banqi game](https://github.com/thea-leake/graveyard) for an example use case.
 
 Here are each of the creatures, on the four types of background:
 
